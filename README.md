@@ -22,9 +22,16 @@ It allows easy **itemized billing, tax calculation, and customer management** wi
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your UI here – you can take them by running the program.)
-
----
-
 ## 📂 Project Structure
+billing-management-system/
+│── billing.py # Main application
+│── README.md # Documentation
+│── requirements.txt # Dependencies (if any)
+
+📌 Future Enhancements
+
+Store bills in a database (MySQL/SQLite)
+
+Generate PDF invoices
+
+Add inventory management
